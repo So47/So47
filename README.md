@@ -6,10 +6,14 @@ Backend Engineer (Node.js)
 
 I have 4+ years of proven professional experience in software development. 3.5 years with JavaScript stack (node js, Vue js). My strengths lie in Node.js and PHP. Self-managed, keen on self-development, keeping an eye on top-notch technologies, and always eager to get new knowledge and experience. Open to learning new skills and improving the old ones. Responsible, proactive, and reliable team player; with a problem-solving mindset and a 'can-do' and 'we can do better' attitude.
 
-*   🌍  I'm based in Turkey
-*   ✉️  You can contact me at [sondoselghobashy@gmail.com](mailto:sondoselghobashy@gmail.com)
-*   🧠  I'm learning Kubernetes, Elasticsearch
-*   🤝  I'm open to collaborating on Meaningful and interesting projects### Skills 
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [sondoselghobashy@gmail.com](mailto:sondoselghobashy@gmail.com)
+* 🧠  I'm learning Kubernetes, Elasticsearch
+* 🤝  I'm open to collaborating on Meaningful and interesting projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -31,18 +35,20 @@ I have 4+ years of proven professional experience in software development. 3.5 y
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/l48-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/So47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/sondos-mohamed-2a8b1714b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/So47"><img src="https://github-readme-stats.vercel.app/api?username=So47&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="So47's GitHub stats" /></a><a
-                      href="http://www.github.com/So47"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=So47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/So47"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=So47&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/So47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=So47&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/l48-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/So47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sondos-mohamed-2a8b1714b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/So47"><img src="https://github-readme-stats.vercel.app/api?username=So47&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="So47's GitHub stats" /></a>
+
+<a href="http://www.github.com/So47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=So47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/So47"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=So47&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/So47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=So47&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
