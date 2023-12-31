@@ -6,7 +6,7 @@ Backend Engineer (Node.js)
 
 I have 4+ years of proven professional experience in software development. 3.5 years with JavaScript stack (node js, Vue js). My strengths lie in Node.js and PHP. Self-managed, keen on self-development, keeping an eye on top-notch technologies, and always eager to get new knowledge and experience. Open to learning new skills and improving the old ones. Responsible, proactive, and reliable team player; with a problem-solving mindset and a 'can-do' and 'we can do better' attitude.
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Germany
 * ✉️  You can contact me at [sondoselghobashy@gmail.com](mailto:sondoselghobashy@gmail.com)
 * 🧠  I'm learning Kubernetes, Elasticsearch
 * 🤝  I'm open to collaborating on Meaningful and interesting projects
