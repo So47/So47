@@ -1,8 +1,8 @@
 Hi 👋 My name is Sondos Mohamed
 ===============================
 
-Backend Engineer (Node.js)
---------------------------
+Software Engineer 
+-----------------
 
 I have 4+ years of proven professional experience in software development. 3.5 years with JavaScript stack (node js, Vue js). My strengths lie in Node.js and PHP. Self-managed, keen on self-development, keeping an eye on top-notch technologies, and always eager to get new knowledge and experience. Open to learning new skills and improving the old ones. Responsible, proactive, and reliable team player; with a problem-solving mindset and a 'can-do' and 'we can do better' attitude.
 
