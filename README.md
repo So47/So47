@@ -8,7 +8,7 @@ I have 5+ years of proven professional experience in software development. 3.5 y
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [sondoselghobashy@gmail.com](mailto:sondoselghobashy@gmail.com)
-* 🧠  I'm learning Kubernetes, Elasticsearch
+* 🧠  I'm learning Machine Learning, Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Meaningful and interesting projects
 
 ### Skills
