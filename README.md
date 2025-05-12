@@ -4,11 +4,11 @@ Hi 👋 My name is Sondos Elghobashy
 Software Engineer 
 -----------------
 
-I have 5+ years of proven professional experience in software development. 3.5 years with JavaScript stack (node js, Vue js). My strengths lie in Node.js, Python and PHP. Self-managed, keen on self-development, keeping an eye on top-notch technologies, and always eager to get new knowledge and experience. Open to learning new skills and improving the old ones. Responsible, proactive, and reliable team player; with a problem-solving mindset and a 'can-do' and 'we can do better' attitude.
+I have 7+ years of proven professional experience in software development. Experience with JavaScript stack (Node.js, Vue.js). My strengths lie in Node.js, Python, and PHP. Self-managed, keen on self-development, keeping an eye on top-notch technologies, and always eager to get new knowledge and experience. Open to learning new skills and improving old ones. Responsible, proactive, and reliable team player; with a problem-solving mindset and a 'can-do' and 'we can do better' attitude. I am currently learning Machine learning "PYTORCH". I have an interest in medical-related algorithms using AI.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [sondoselghobashy@gmail.com](mailto:sondoselghobashy@gmail.com)
-* 🧠  I'm learning Machine Learning, Data Structures & Algorithms
+* 🧠  I'm learning Machine Learning, Pytorch
 * 🤝  I'm open to collaborating on Meaningful and interesting projects
 
 ### Skills
